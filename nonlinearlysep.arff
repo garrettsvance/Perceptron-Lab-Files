@@ -1,0 +1,15 @@
+@relation NonLinearly_Separable_Dataset
+
+@attribute input1 real
+@attribute input2 real
+@attribute class {0, 1}
+
+@data
+1, 1, 1
+2, 4, 1
+3, 9, 1
+4, 16, 1
+5, 20, 0
+6, 15, 0
+7, 10, 0
+8, 5, 0
