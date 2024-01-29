@@ -1,4 +1,4 @@
-@relation NonLinearly_Separable_Dataset
+@relation new-NonLinearly_Separable_Dataset
 
 @attribute input1 real
 @attribute input2 real
